@@ -45,7 +45,7 @@ Features:
 - Proper SEO formatting
 - There should be a general home page and a customized home page for registered customers so the content can be tailored to each customer's taste.(Dashboard)
 - Direct links to contact a vendor, and links to their instagram pages.
-- Reporting TOol.
+- Reporting Tool.
 
 
 Bottlenecks:
