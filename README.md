@@ -44,7 +44,8 @@ Features:
 - A Backend to Manage Metadata And Vendors and their Products
 - Proper SEO formatting
 - There should be a general home page and a customized home page for registered customers so the content can be tailored to each customer's taste.(Dashboard)
-- Direct links to contact a vendor, and links to their instagram pages 
+- Direct links to contact a vendor, and links to their instagram pages.
+- Reporting TOol.
 
 
 Bottlenecks:
